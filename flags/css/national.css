@@ -1,0 +1,93 @@
+
+* {
+        margin: 0px; padding: 0px;
+}
+
+/* make the background of the page black */
+body {
+        background: black;
+}
+
+/* flag canvas */
+#canvas {
+        width: 500px;
+        height: 300px;
+        position: relative;
+        background: red;
+}
+
+/* shapes */
+#star-five{
+-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  margin: 0px 0;
+  position: relative;
+  display: block;
+  color: yellow;
+  width: 5px;
+  height: 5px;
+  border-bottom: 70px solid yellow;
+  border-left: 70px solid yellow;
+  top: 32px;
+  left: 32px;
+}
+#star-sub1{
+-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  margin: 0px 0;
+  position: relative;
+  display: block;
+  color: yellow;
+  width: 0px;
+  height: 0px;
+  border-bottom: 22px solid yellow;
+  border-left: 22px solid yellow;
+  top: -64px;
+  left: 118px;
+  transform: rotate(20deg);
+}
+#star-sub2{
+-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  margin: 0px 0;
+  position: relative;
+  display: block;
+  color: yellow;
+  width: 0px;
+  height: 0px;
+  border-bottom: 22px solid yellow;
+  border-left: 22px solid yellow;
+  top: -54px;
+  left: 140px;
+  transform: rotate(41deg);
+}
+#star-sub3{
+-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  margin: 0px 0;
+  position: relative;
+  display: block;
+  color: yellow;
+  width: 0px;
+  height: 0px;
+  border-bottom: 22px solid yellow;
+  border-left: 22px solid yellow;
+  top: -36px;
+  left: 140px;
+  transform: rotate(0deg);
+}
+#star-sub4{
+-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  margin: 0px 0;
+  position: relative;
+  display: block;
+  color: yellow;
+  width: 0px;
+  height: 0px;
+  border-bottom: 22px solid yellow;
+  border-left: 22px solid yellow;
+  top: -30px;
+  left: 112px;
+  transform: rotate(22deg);
+}
