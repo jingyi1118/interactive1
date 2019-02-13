@@ -1,15 +1,17 @@
 body {
-  background: violet;
-  font-family: 'Lobster', cursive;
+  background: #2FB0DD;
+  font-family: 'Big Caslon', cursive;
+  font-size: 16pt;
+  width: 500px;
+  margin: auto;
 }
 
-	#container {margin: 0 auto;
+	#container {
+    margin: 0 auto;
   	max-width: 650px;
   		/* I put "max-width" rather than "width" because
     		 if the screen width is less than 650px, it will shrink accordingly. */
     		}
-  img {max-width: 100%;
-  }
 
 #toc {
   position: fixed;
@@ -19,6 +21,14 @@ body {
      you need to tell it where to be fixed to.
      This means it will be 1em (22px) away from both the top and the left sides.
      You could also use "bottom" or "right" here. */
+}
+
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  height:500px;
+  width:auto;
 }
 #toc {
   position: fixed;
@@ -31,7 +41,7 @@ body {
   /* some padding might make it look better */
   padding: 1em;
   /* maybe making the font size here smaller will help too */
-  font-size: 0.7em;
+  font-size: 1em;
 }
 
     a {
@@ -76,7 +86,7 @@ h1 {
      centered, larger, tighter leading, and with some bottom space or margin */
   font-weight: normal;
   text-align: center;
-  font-size: 3em;
+  font-size: 5em;
   line-height: 1.1;
   margin-bottom: 2em;
 }
@@ -85,24 +95,20 @@ h2 {
   /* here I'm making my section headers very clear with a white background.
      added some padding and removed the default bold again, and
      added some top margin */
-  background: white;
-  padding: 0.5em;
-  font-weight: normal;
-  color: #587E20;
+
+  color: #19108C;
   margin-top: 2em;
+  text-align: center;
 }
 
-img.profile {
-  max-width: 150px;
-}
+
 <div id="container">
 	#container {margin: 0 auto;
   	max-width: 650px;
   		/* I put "max-width" rather than "width" because
     		 if the screen width is less than 650px, it will shrink accordingly. */
     		}
-  img {max-width: 100%;
-}
+
 
 
 #toc {
@@ -154,6 +160,8 @@ img.profile {
 }
 figure {
   margin: 0;
+  width: 282px;
+  margin: auto;
 }
 figcaption {
   font-size: 0.7em;
@@ -165,26 +173,8 @@ figcaption {
     }
 
 
-h1 {
-  /* here I'm making the title not bold (by default headings are always bold)
-     centered, larger, tighter leading, and with some bottom space or margin */
-  font-weight: normal;
-  text-align: center;
-  font-size: 3em;
-  line-height: 1.1;
-  margin-bottom: 2em;
+#conversation {
+  width: 500px;
+  margin: auto;
 }
 
-h2 {
-  /* here I'm making my section headers very clear with a white background.
-     added some padding and removed the default bold again, and
-     added some top margin */
-  background: white;
-  padding: 0.5em;
-  font-weight: normal;
-  color: #587E20;
-  margin-top: 2em;
-}
-img.profile {
-  max-width: 150px;
-}
