@@ -5,18 +5,18 @@ body {
 
 }
 	
-  #container {margin: 0 auto;
+  #container {
+    margin: 0 auto;
   	max-width: 400px;
-  color: yellow;-webkit-font-smoothing: antialiased;
-  
-  font-family: 'Lobster', cursive;
-  font: 32px Big Caslon, sans-serif;
-  text-shadow: 2px 2px #FF0000;
+    color: yellow;-webkit-font-smoothing: antialiased;
+    font-family: 'Lobster', cursive;
+    font: 32px Big Caslon, sans-serif;
+    text-shadow: 2px 2px #FF0000;
 	.center-me {
-  margin: 0 auto;
+    margin: 0 auto;
   * {
-  margin: 0px;
-  padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 	#container {margin: 0 auto;
   	max-width: 650px;
