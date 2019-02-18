@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" class="js gr__mr-cup_com"><head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta charset="utf-8">
+  <base href="https://www.mr-cup.com/blog.html">
+  <meta name="description" content="Mr Cup is an inspiration blog for graphic designers who need to improve their life and creativity">
+  <title>Mr CUP : Inspiration . Creation . Emotion / The work, the shop &amp; the blog of Fabien Barral</title>
+  <link href="/feed/rss/blog.feed" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+  <link href="/feed/atom/blog.feed" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+  <link href="/templates/bootstrap4/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link href="/media/zoo/applications/blog/templates/mrcup-blog/assets/css/zoo.css?ver=20190112" rel="stylesheet">
+  <link href="/templates/bootstrap4/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/templates/bootstrap4/css/font-awesome.min.css" rel="stylesheet">
+  <link href="/templates/bootstrap4/css/template.css?v=24" rel="stylesheet">
+  <link href="/modules/mod_zoofilter/tmpl/default/style.css?ver=20190112" rel="stylesheet">
+  <link href="https://www.mr-cup.com/media/com_acymailing/css/module_default.css?v=1547642869" rel="stylesheet">
+  <style>
+
+      p.flexi_youtube{position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;}
+      iframe.flexi_youtube_in{position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+      
+      p.ltyt{border: 5px solid #ccc;width: 88%; margin-left:auto;margin-right:auto;}
+      p.dtyt{border: 5px solid #000;width: 88%; margin-left:auto;margin-right:auto;}
+      
+    
+
+      p.flexi_youtube{position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;}
+      iframe.flexi_youtube_in{position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+      
+      p.ltyt{border: 5px solid #ccc;width: 88%; margin-left:auto;margin-right:auto;}
+      p.dtyt{border: 5px solid #000;width: 88%; margin-left:auto;margin-right:auto;}
+      
+    
+
+      p.flexi_youtube{position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;}
+      iframe.flexi_youtube_in{position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+      
+      p.ltyt{border: 5px solid #ccc;width: 88%; margin-left:auto;margin-right:auto;}
+      p.dtyt{border: 5px solid #000;width: 88%; margin-left:auto;margin-right:auto;}
+      
+    
+
+      p.flexi_youtube{position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;}
+      iframe.flexi_youtube_in{position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+      
+      p.ltyt{border: 5px solid #ccc;width: 88%; margin-left:auto;margin-right:auto;}
+      p.dtyt{border: 5px solid #000;width: 88%; margin-left:auto;margin-right:auto;}
+      
+    
+  </style>
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ga/inpage_linkid.js" id="undefined"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/jui/js/jquery.min.js?726f1b1cf1e4d89dfce0595c8081f6f0"></script>
+  <script src="/media/jui/js/jquery-noconflict.js?726f1b1cf1e4d89dfce0595c8081f6f0"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js?726f1b1cf1e4d89dfce0595c8081f6f0"></script>
+  <script src="/media/zoo/assets/js/responsive.js?ver=20190112"></script>
+  <script src="/components/com_zoo/assets/js/default.js?ver=20190112"></script>
+  <script src="/templates/bootstrap4/js/popper.min.js"></script>
+  <script src="/templates/bootstrap4/js/bootstrap.min.js"></script>
+  <script src="/templates/bootstrap4/js/template.js?v=10"></script>
+  <script src="/modules/mod_zoofilter/assets/js/modernizr.custom.js?ver=20190112"></script>
+  <script src="/modules/mod_zoofilter/assets/js/jquery.placehold.min.js?ver=20190112"></script>
+  <script src="/modules/mod_zoofilter/assets/js/check_required.min.js?ver=20190112"></script>
+  <script src="/modules/mod_zoofilter/tmpl/default/script.min.js?ver=20190112"></script>
+  <script src="https://www.mr-cup.com/media/com_acymailing/js/acymailing_module.js?v=5105" async=""></script>
+  <script>
+  if(typeof acymailingModule == 'undefined'){
+        var acymailingModule = [];
+      }
+      
+      acymailingModule['emailRegex'] = /^[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&\'*+\/=?^_`{|}~-]+)*\@([a-z0-9-]+\.)+[a-z0-9]{2,20}$/i;
+
+      acymailingModule['NAMECAPTION'] = 'Name';
+      acymailingModule['NAME_MISSING'] = 'Please enter your name';
+      acymailingModule['EMAILCAPTION'] = 'E-mail';
+      acymailingModule['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+      acymailingModule['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+      acymailingModule['CAPTCHA_MISSING'] = 'The captcha is invalid, please try again';
+      acymailingModule['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+    
+acymailingModule['excludeValuesformAcymailing49121'] = [];
+acymailingModule['excludeValuesformAcymailing49121']['name'] = 'Name';
+acymailingModule['excludeValuesformAcymailing49121']['email'] = 'E-mail';
+
+  </script>
+
+                    <link rel="shortcut icon" href="/templates/bootstrap4/favicon.ico">
+                <!--[if lt IE 9]>
+                <script src="/media/jui/js/html5.js"></script>
+        <![endif]-->
+        <script type="text/javascript">
+      var _gaq = _gaq || [];
+      var pluginUrl = 
+       '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+      _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+      _gaq.push(['_setAccount', 'UA-3378432-9']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    </head>
+    <body class=" itemid-101" data-gr-c-s-loaded="true">
+      <header class="">
+              <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white">
+      <div class="container">
+              
+              <a class="navbar-brand" href="https://www.mr-cup.com/blog.html"><img src="/images/mrcup-blog.png" alt="Mr CUP Blog" class="img-fluid logoBlack d-none"><img src="/images/mrcup-blog-white.png" alt="Mr CUP Blog" class="img-fluid logoWhite"></a>
+        <button class="navbar-toggler collapsed" data-toggle="collapse" data-target="#nav-1"><span></span><span></span><span></span></button>
+        <div class="collapse navbar-collapse" id="nav-1">
+          <ul class="menu navbar-nav ml-auto">
+<li class="nav-item item-113 deeper parent dropdown"><a class="nav-link lien-topics dropdown-toggle" href="/topics.html" data-toggle="dropdown">Topics</a><ul class="nav-child unstyled dropdown-menu"><li class="nav-item item-389"><a class="dropdown-item" href="/topics/mr-cup-news.html">Mr CUP News</a></li><li class="nav-item item-186"><a class="dropdown-item" href="/topics/excellence.html">Excellence</a></li><li class="nav-item item-165"><a class="dropdown-item" href="/topics/identity.html">Identity</a></li><li class="nav-item item-164"><a class="dropdown-item" href="/topics/print.html">Print</a></li><li class="nav-item item-169"><a class="dropdown-item" href="/topics/packaging.html">Packaging</a></li><li class="nav-item item-171"><a class="dropdown-item" href="/topics/design.html">Design</a></li><li class="nav-item item-163"><a class="dropdown-item" href="/topics/graphic.html">Graphic</a></li><li class="nav-item item-170"><a class="dropdown-item" href="/topics/interior.html">Interior</a></li><li class="nav-item item-166"><a class="dropdown-item" href="/topics/music.html">Music</a></li><li class="nav-item item-852"><a class="dropdown-item" href="/topics/movies.html">Movies</a></li><li class="nav-item item-191"><a class="dropdown-item" href="/topics/vintage.html">Vintage</a></li><li class="nav-item item-172"><a class="dropdown-item" href="/topics/varied-others.html">Varied others</a></li></ul></li><li class="nav-item item-805 deeper parent dropdown"><a class="nav-link lien-mr-cup-topics dropdown-toggle" href="/stories.html" data-toggle="dropdown">Stories</a><ul class="nav-child unstyled dropdown-menu"><li class="nav-item item-387"><a class="dropdown-item" href="/stories/nice-to-meet-you.html">Nice to meet you</a></li><li class="nav-item item-388"><a class="dropdown-item" href="/stories/life-and-travels.html">Life &amp; travels</a></li></ul></li><li class="nav-item item-111"><a href="https://mrcup-shop.com/" class="nav-link" target="_blank" rel="noopener noreferrer">Shop</a></li><li class="nav-item item-112"><a href="http://mrcup-studio.com/" class="nav-link" target="_blank" rel="noopener noreferrer">Work</a></li><li class="nav-item item-717"><a class="nav-link" href="/support.html">Support</a></li><li class="nav-item item-116"><a class="nav-link" href="/newsletter.html" target="_blank">Newsletter</a></li><li class="nav-item item-115"><a class="nav-link" href="/about.html">About</a></li></ul>
+
+                    <div class="topsocial"><a href="#search"><i class="fa fa-search"></i></a><a href="https://www.instagram.com/mrcupblog/" target="_blank"><i class="fa fa-instagram"></i></a><a href="https://twitter.com/iammrcup" target="_blank"><i class="fa fa-twitter"></i></a><a href="https://www.facebook.com/iammrcup" target="_blank"><i class="fa fa-facebook"></i></a></div>
+        </div>
+      </div>
+    </nav>
+                  <div class="moduletable smenu-topics">
+            
+
+<div class="custom smenu-topics">
+  <div class="container">
+<div class="row">
+<div class="col-lg-3 text-center my-3"><a href="/topics/mr-cup-news.html"><img src="/images/menus/mrcupnews.jpg" alt="" class="img-fluid"><span>Mr CUP News</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/excellence.html"><img src="/images/menus/exellence.jpg" alt="" class="img-fluid"><span>Excellence</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/identity.html"><img src="/images/menus/identity.jpg" alt="" class="img-fluid"><span>Identity</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/print.html"><img src="/images/menus/print.jpg" alt="" class="img-fluid"><span>Print</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/packaging.html"><img src="/images/menus/packaging.jpg" alt="" class="img-fluid"><span>Packaging</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/design.html"><img src="/images/menus/design.jpg" alt="" class="img-fluid"><span>Design</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/graphic.html"><img src="/images/menus/graphic.jpg" alt="" class="img-fluid"><span>Graphic</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/interior.html"><img src="/images/menus/interior.jpg" alt="" class="img-fluid"><span>Interior</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/music.html"><img src="/images/menus/music.jpg" alt="" class="img-fluid"><span>Music</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/movies.html"><img src="/images/menus/movies.jpg" alt="" class="img-fluid"><span>Movies</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/vintage.html"><img src="/images/menus/vintage.jpg" alt="" class="img-fluid"><span>Vintage</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/topics/varied-others.html"><img src="/images/menus/varied.jpg" alt="" class="img-fluid"><span>Varied others</span></a></div>
+
+</div>
+</div></div>
+    </div>
+      <div class="moduletable smenu-mr-cup-topics">
+            
+
+<div class="custom smenu-mr-cup-topics">
+  <div class="container">
+<div class="row">
+<div class="col-lg-3 text-center my-3"><a href="/stories/nice-to-meet-you.html"><img src="/images/menus/nice-to-meet-you.jpg" alt="" class="img-fluid"><span>Nice to meet you</span></a></div>
+<div class="col-lg-3 text-center my-3"><a href="/stories/life-and-travels.html"><img src="/images/menus/life-and-travels.jpg" alt="" class="img-fluid"><span>Life &amp; travels</span></a></div>
+
+</div>
+</div></div>
+    </div>
+  
+                              
+
+<div class="custom">
+  <div class="top-container d-flex justify-content-center align-items-end" style="background-image: url('/images/menus/bd-home.jpg');">
+<div class="top-title-img"><img src="/images/menus/Graphic-Exchange.svg" width="840" height="129" alt="Mr CUP Blog - Graphic Exchange" class="img-fluid"></div>
+</div></div>
+
+                </header>
+        <main class="body py-5">
+                <div class="container">
+                    
+                                        <div class="row">
+                                                <div id="content" role="main" class="col-md-12">
+                            
+                            <div id="system-message-container">
+  </div>
+
+                            
+<div class="blog-mrcup-blog blog-mrcup-blog-frontpage">
+
+  
+
+
+<div class="create">
+  <div class="blogday"> 05</div>
+  <div class="blogmonth">February</div>
+  <div class="blogyear">2019 </div>
+</div>
+<div class="divblogtitle">
+<h2 class="blogtitle">
+   <a title="Last days for the Letterpress coasters on Kickstarter" href="/topics/mr-cup-news/item/last-days-for-the-letterpress-coasters-on-kickstarter.html">Last days for the Letterpress coasters on Kickstarter</a> </h2>
+<div class="blogsubtitle">
+<span class="category-name">
+  posted in <a href="/topics/mr-cup-news.html">Mr CUP News</a> </span>
+<span class="athour">
+  &nbsp;at 12.59 PM </span>
+
+    <span class="from">from</span>
+                          <span class="from"><span><a href="http://www.mrcup-shop.com" target="_blank" class="underline"> Mr Cup Studio</a></span></span>
+
+<span class="near">
+  (near <span>Arles</span>)
+</span>
+
+<span class="country">
+  / <span> France </span>
+</span>
+
+          <span class="listen">listening <span> Melody Gardot </span></span>
+
+</div>
+</div>
+
+    <div class="articlearea">
+    <div class="element element-textarea first last">
+  <div><a href="https://www.kickstarter.com/projects/1495552219/make-100-mr-cup-letterpress-coasters?ref=2y4kdb" target="_blank" rel="noopener"><img src="/images/2019/02-05-coasters/05-present-2.jpg" width="1435" height="956" alt="05 present 2"></a></div>
+<div>&nbsp;</div>
+<div>With more than 110% funded, this is another successful&nbsp;Kickstarter! <a href="https://www.kickstarter.com/projects/1495552219/make-100-mr-cup-letterpress-coasters?ref=2y4kdb" target="_blank" rel="noopener">Still,&nbsp;some days left to get the wood edition limited to 100 copies</a>!&nbsp;Here are the 4 et 5 design I just created.</div>
+<div>&nbsp;</div>
+<div><a href="https://www.kickstarter.com/projects/1495552219/make-100-mr-cup-letterpress-coasters?ref=2y4kdb" target="_blank" rel="noopener"><img src="/images/2019/02-05-coasters/04-present2.jpg" width="1500" height="1151" alt="04 present2"></a></div>
+<div>&nbsp;</div>
+<div><a href="https://www.kickstarter.com/projects/1495552219/make-100-mr-cup-letterpress-coasters?ref=2y4kdb" target="_blank" rel="noopener"><img src="/images/2019/02-05-coasters/05-present-3.jpg" width="1500" height="1151" alt="05 present 3"></a></div>
+<div>&nbsp;</div>
+<div>The wood edition prototype looks like this :</div>
+<div><a href="https://www.kickstarter.com/projects/1495552219/make-100-mr-cup-letterpress-coasters?ref=2y4kdb" target="_blank" rel="noopener"><img src="/images/2019/02-05-coasters/proto.jpg" width="1500" height="752" alt="proto"></a></div>
+<div>&nbsp;</div>
+<div><a href="https://www.kickstarter.com/projects/1495552219/make-100-mr-cup-letterpress-coasters?ref=2y4kdb" target="_self">Get it now on Kickstarter.</a></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div></div> </div>
+  
+
+<hr class="teaser-hr">
+
+<div class="create">
+  <div class="blogday"> 04</div>
+  <div class="blogmonth">February</div>
+  <div class="blogyear">2019 </div>
+</div>
+<div class="divblogtitle">
+<h2 class="blogtitle">
+   <a title="I love playings cards and I can not lie..." href="/topics/print/item/i-love-playings-cards-and-i-can-not-lie.html">I love playings cards and I can not lie...</a> </h2>
+<div class="blogsubtitle">
+<span class="category-name">
+  posted in <a href="/topics/print.html">Print</a> </span>
+<span class="athour">
+  &nbsp;at 10.08 PM </span>
+
+    <span class="from">from</span>
+                          <span class="from"><span><a href="http://www.mrcup-shop.com" target="_blank" class="underline"> Mr Cup Studio</a></span></span>
+
+<span class="near">
+  (near <span>Arles</span>)
+</span>
+
+<span class="country">
+  / <span> France </span>
+</span>
+
+
+</div>
+</div>
+
+    <div class="articlearea">
+    <div class="element element-textarea first last">
+  <div><img src="/images/2019/02-04-cards/mrcup-tomstown-01.jpg" width="1500" height="1000" alt="mrcup tomstown 01"></div>
+<div>&nbsp;</div>
+<div>While my EPHEMERID playings cards are almost ready (<a href="https://mrcup-shop.com/blogs/news" target="_blank" rel="noopener">check news here</a>), I love that so many amazing decks are released! I am a collector, and my collection is growing... I am happy to help you to create yours adding <a href="https://mrcup-shop.com/collections/cards" target="_blank" rel="noopener">all these decks in the </a>Mr<a href="https://mrcup-shop.com/collections/cards" target="_blank" rel="noopener"> Cup Shop.</a></div>
+<div>&nbsp;</div>
+<h2>TOM'S TOWN by Kevin Cantrell</h2>
+<div><img src="/images/2019/02-04-cards/mrcup-tomstown-02.jpg" width="1500" height="1000" alt="mrcup tomstown 02"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-tomstown-03.jpg" width="1500" height="954" alt="mrcup tomstown 03"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-tomstown-04.jpg" width="1500" height="954" alt="mrcup tomstown 04"></div>
+<div>&nbsp;</div>
+<h2>BLACK WHEELS by DKNG</h2>
+<div><img src="/images/2019/02-04-cards/mrcup-dkngblack-01.jpg" width="1500" height="1000" alt="mrcup dkngblack 01"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-dkngblack-02.jpg" width="1500" height="1028" alt="mrcup dkngblack 02"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-dkngblack-04.jpg" width="1500" height="978" alt="mrcup dkngblack 04"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-dkngblack-05.jpg" width="1500" height="899" alt="mrcup dkngblack 05"></div>
+<div>&nbsp;</div>
+<h2>SONS OF LIBERTY by Jeff Trish</h2>
+<div><img src="/images/2019/02-04-cards/mrcup-sonsofliberty-01.jpg" width="1500" height="999" alt="mrcup sonsofliberty 01"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-sonsofliberty-02.jpg" width="1500" height="999" alt="mrcup sonsofliberty 02"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-sonsofliberty-03.jpg" width="1500" height="999" alt="mrcup sonsofliberty 03"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-sonsofliberty-05.jpg" width="1500" height="999" alt="mrcup sonsofliberty 05"></div>
+<div>&nbsp;</div>
+<h2>NAVIGATORS</h2>
+<div><img src="/images/2019/02-04-cards/mrcup-navigators-01.jpg" width="1500" height="1007" alt="mrcup navigators 01"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-navigators-02.jpg" width="1023" height="682" alt="mrcup navigators 02"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-navigators-03.jpg" width="1023" height="682" alt="mrcup navigators 03"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-cards/mrcup-navigators-04.jpg" width="1023" height="682" alt="mrcup navigators 04"></div>
+<div>&nbsp;</div>
+<div><a href="https://mrcup-shop.com/collections/cards" target="_blank" rel="noopener">Check all the playing cards in the </a>Mr<a href="https://mrcup-shop.com/collections/cards" target="_blank" rel="noopener"> Cup Shop</a></div>
+<div><a href="https://mrcup-shop.com/collections/cards" target="_blank" rel="noopener"><img src="/images/2019/02-04-cards/playingcards1.jpg" width="1500" height="486" alt="playingcards1"></a></div>
+<div><a href="https://mrcup-shop.com/collections/cards" target="_blank" rel="noopener"><img src="/images/2019/02-04-cards/playingcards2.jpg" width="1500" height="508" alt="playingcards2"></a></div>
+<div>&nbsp;</div></div> </div>
+  
+
+<hr class="teaser-hr">
+
+<div class="create">
+  <div class="blogday"> 04</div>
+  <div class="blogmonth">February</div>
+  <div class="blogyear">2019 </div>
+</div>
+<div class="divblogtitle">
+<h2 class="blogtitle">
+   <a title="Sail Spells by Not Perfect Companies" href="/topics/packaging/item/sail-spells-by.html">Sail Spells by Not Perfect Companies</a> </h2>
+<div class="blogsubtitle">
+<span class="category-name">
+  posted in <a href="/topics/packaging.html">Packaging</a> </span>
+<span class="athour">
+  &nbsp;at 7.59 PM </span>
+
+    <span class="from">from</span>
+                          <span class="from"><span><a href="http://www.mrcup-shop.com" target="_blank" class="underline"> Mr Cup Studio</a></span></span>
+
+<span class="near">
+  (near <span>Arles</span>)
+</span>
+
+<span class="country">
+  / <span> France </span>
+</span>
+
+
+</div>
+</div>
+
+    <div class="articlearea">
+    <div class="element element-textarea first last">
+  <div><img src="/images/2019/02-04-Sail-spells/mrcup-sailspells-01.jpg" width="1600" height="820" alt="mrcup sailspells 01"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-Sail-spells/mrcup-sailspells-02.jpg" width="1600" height="820" alt="mrcup sailspells 02"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-Sail-spells/mrcup-sailspells-03.jpg" width="1600" height="820" alt="mrcup sailspells 03"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-Sail-spells/mrcup-sailspells-04.jpg" width="1600" height="820" alt="mrcup sailspells 04"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-Sail-spells/mrcup-sailspells-05.jpg" width="1600" height="820" alt="mrcup sailspells 05"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/02-04-Sail-spells/mrcup-sailspells-06.jpg" width="1600" height="820" alt="mrcup sailspells 06"></div>
+<div>&nbsp;</div>
+<div><a href="http://www.not-perfect.com/" target="_blank" rel="noopener">www.not-perfect.com</a></div></div> </div>
+  
+
+<hr class="teaser-hr">
+
+<div class="create">
+  <div class="blogday"> 31</div>
+  <div class="blogmonth">January</div>
+  <div class="blogyear">2019 </div>
+</div>
+<div class="divblogtitle">
+<h2 class="blogtitle">
+   <a title="Jason Carne" href="/topics/graphic/item/jason-carne.html">Jason Carne</a> </h2>
+<div class="blogsubtitle">
+<span class="category-name">
+  posted in <a href="/topics/graphic.html">Graphic</a> </span>
+<span class="athour">
+  &nbsp;at 2.12 PM </span>
+
+    <span class="from">from</span>
+                          <span class="from"><span><a href="http://www.mrcup-shop.com" target="_blank" class="underline"> Mr Cup Studio</a></span></span>
+
+<span class="near">
+  (near <span>Arles</span>)
+</span>
+
+<span class="country">
+  / <span> France </span>
+</span>
+
+
+</div>
+</div>
+
+    <div class="articlearea">
+    <div class="element element-textarea first last">
+  <div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-14.jpg" width="1600" height="1080" alt="mrcup JasonCarne 14"></div>
+<div>&nbsp;</div>
+<div>Jason is a very&nbsp;inspiring&nbsp;lettering artist and graphic designer from Kentucky and he just updates his web site. He is passionate about vintage type and lettering and in addition to his freelance designer career, Jason owns and operates a display type foundry called <a href="http://www.carmeltype.co/" target="_blank" rel="noopener">Carmel Type Co.</a> where he works with some of the finest sign artists in the world to sell unique, decorative typefaces in addition to also running a carefully curated designer resource website called <a href="http://www.letteringlibrary.com/" target="_blank" rel="noopener">Lettering Library</a> that digitizes antiquarian publications on lettering and sign-painting for the modern day artist. Selection of his projects.</div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-01.jpg" width="1500" height="1001" alt="mrcup JasonCarne 01"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-02.jpg" width="1500" height="1001" alt="mrcup JasonCarne 02"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-03.jpg" width="1500" height="1001" alt="mrcup JasonCarne 03"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-04.jpg" width="1500" height="1001" alt="mrcup JasonCarne 04"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-05.jpg" width="1500" height="1000" alt="mrcup JasonCarne 05"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-06.jpg" width="1500" height="1000" alt="mrcup JasonCarne 06"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-07.jpg" width="1500" height="1000" alt="mrcup JasonCarne 07"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-08.jpg" width="1500" height="1000" alt="mrcup JasonCarne 08"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-09.jpg" width="1500" height="1063" alt="mrcup JasonCarne 09"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-10.jpg" width="1500" height="772" alt="mrcup JasonCarne 10"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-11.jpg" width="1500" height="1068" alt="mrcup JasonCarne 11"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-12.jpg" width="1500" height="1000" alt="mrcup JasonCarne 12"></div>
+<div>&nbsp;</div>
+<div><img src="/images/2019/01-31-Jason-Carne/mrcup-JasonCarne-13.jpg" width="1500" height="1000" alt="mrcup JasonCarne 13"></div>
+<div>&nbsp;</div>
+<div><a href="https://www.jasoncarne.com/" target="_blank" rel="noopener">www.jasoncarne.com</a></div>
+<div>&nbsp;</div></div> </div>
+  
+
+<hr class="teaser-hr">
+<hr>
+<div class="text-center">
+<ul class="pagination d-flex justify-content-center">
+
+    <li class="page-item active"><span class="page-link">1</span></li><li class="page-item"><a class="page-link" href="/2.html">2</a></li><li class="page-item"><a class="page-link" href="/3.html">3</a></li><li class="page-item"><a class="page-link" href="/4.html">4</a></li><li class="page-item"><a class="page-link" href="/5.html">5</a></li><li class="page-item"><a class="page-link" href="/2.html"><i class="fa fa-angle-right"></i></a></li><li class="page-item"><a class="page-link" href="/208.html"><i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a></li></ul>
+</div>
+<hr>
+
+</div>
+                            
+                        </div>
+                                            </div>
+            </div>
+        </main>
+                <footer id="footer">
+                    <div id="newsletters">
+                <div class="container">
+                        <div class="moduletable">
+
+          <h3>Stay connected to know more</h3>
+    
+      <div class="acymailing_module" id="acymailing_module_formAcymailing49121">
+  <div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing49121">
+    <form id="formAcymailing49121" action="/" onsubmit="return submitacymailingform('optin','formAcymailing49121')" method="post" name="formAcymailing49121">
+    <div class="acymailing_module_form">
+      <div class="acymailing_introtext">Suscribe to the Mr-CUP mailing list</div>     <div class="acymailing_form">
+          <p class="onefield fieldacyemail" id="field_email_formAcymailing49121">             <span class="acyfield_email acy_requiredField"><input id="user_email_formAcymailing49121" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:80%" value="E-mail" title="E-mail"></span>
+              </p>
+          
+          <p class="acysubbuttons">
+                        <input class="button subbutton btn btn-primary" type="submit" value="OK" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing49121'); }catch(err){alert('The form could not be submitted '+err);return false;}">
+                      </p>
+        </div>
+            <input type="hidden" name="ajax" value="1">
+      <input type="hidden" name="acy_source" value="module_228">
+      <input type="hidden" name="ctrl" value="sub">
+      <input type="hidden" name="task" value="notask">
+      <input type="hidden" name="redirect" value="http%3A%2F%2Fwww.mr-cup.com%2Fblog.html">
+      <input type="hidden" name="redirectunsub" value="http%3A%2F%2Fwww.mr-cup.com%2Fblog.html">
+      <input type="hidden" name="option" value="com_acymailing">
+            <input type="hidden" name="hiddenlists" value="1">
+      <input type="hidden" name="acyformname" value="formAcymailing49121">
+            <input type="hidden" name="Itemid" value="116">     </div>
+    </form>
+  </div>
+  </div>
+
+
+    </div>
+
+  
+                </div>
+            </div>
+                        <div class="footer container">
+                <div class="row">
+                                      <div class="col-sm-12 col-md-6 footer1">
+                      
+
+<div class="custom">
+  <p><img src="/images/mr-cup-footer.png" alt="Mr CUP" class="img-fluid"></p>
+<p class="upp">All post content copyright of the owners (links in each articles). If you do not want it to appears here, just contact me.</p>
+<p class="upp">Layouts and written content by Fabien Barral otherwise noticed. Please be responsible and give credit when credit is due. Thank you. All photos "by MrCup" must also be credited and linked to the original post. I only highlight products that I would be likely to use personally.</p>
+<p class="upp">MrCup® is a registered trademark of SARL BARRAL CREATIONS®, Inc. All rights reserved.</p></div>
+
+                    </div>
+                                                            <div class="col-4 col-md-2 footer2">
+                      
+
+<div class="custom">
+  <h3>TOPICS</h3>
+<ul>
+<li><a href="/topics/mr-cup-news.html">Mr CUP News</a></li>
+<li><a href="/topics/excellence.html?id=43">Excellence</a></li>
+<li><a href="/topics/identity.html">Identity</a></li>
+<li><a href="/topics/print.html">Print</a></li>
+<li><a href="/topics/packaging.html">Packaging</a></li>
+<li><a href="/topics/design.html">Design</a></li>
+<li><a href="/topics/graphic.html">Graphic</a></li>
+<li><a href="/topics/interior.html">Interior</a></li>
+<li><a href="/topics/music.html">Music</a></li>
+<li><a href="/topics/movies.html">Movies</a></li>
+<li><a href="/topics/vintage.html">Vintage</a></li>
+<li><a href="/topics/varied-others.html">Varied others</a></li>
+</ul></div>
+
+                    </div>
+                                                            <div class="col-4 col-md-2 footer3">
+                      
+
+<div class="custom">
+  <h3>Mr CUP</h3>
+<ul>
+<li><a href="/stories/nice-to-meet-you.html">Nice to meet you</a></li>
+<li><a href="/stories/life-and-travels.html?id=43">Life &amp; travels</a></li>
+<li><a href="https://mrcup-shop.com/" target="_blank" rel="noopener">Shop</a></li>
+<li><a href="http://mrcup-studio.com/" target="_blank" rel="noopener">Work</a></li>
+<li><a href="http://letterpress-calendar.com" target="_blank" rel="noopener">The Letterpress Calendar</a></li>
+<li><a href="https://mrcup-shop.com/collections/ebooks-walter" target="_blank" rel="noopener">Walter Magazine</a></li>
+<li><a href="https://www.mr-cup.com/home/talk/" target="_blank" rel="noopener">Talk</a></li>
+<li><a href="https://www.mr-cup.com/home/press/" target="_blank" rel="noopener">Press</a></li>
+<li><a href="/support.html">Support</a></li>
+<li><a href="/component/content/?id=32&amp;Itemid=117">Contact</a></li>
+</ul></div>
+
+                    </div>
+                                                            <div class="col-4 col-md-2 footer4">
+                      
+
+<div class="custom">
+  <h3>SOCIAL</h3>
+<ul>
+<li><a href="https://www.instagram.com/mrcupblog/" target="_blank" rel="noopener">Instagram blog</a></li>
+<li><a href="https://www.instagram.com/iammrcup/" target="_blank" rel="noopener">Instagram Mr Cup</a></li>
+<li><a href="https://twitter.com/iammrcup" target="_blank" rel="noopener">Twitter</a></li>
+<li><a href="https://www.facebook.com/iammrcup" target="_blank" rel="noopener">Facebook</a></li>
+</ul></div>
+
+                    </div>
+                                    </div>
+            </div>
+            
+            <div id="legals">
+                <div class="container">
+                  <p class="m-0 p-0">© 2019 Graphic Exchange - The blog of Mr Cup - graphic design, print, identity, products and more...</p>
+                </div>
+            </div>
+        </footer>
+                        <div id="search" class="d-flex align-items-center">
+          <button type="button" class="searchclose">x</button>
+          <div class="container text-center">
+              
+<div class="zoo-filter form-wrapper" id="mod-zoofilter-253">
+  <form class="style" action="/" method="post" id="zoo-filter-form-253" name="zoo-filter-form-253">
+    
+    <div class="form-inner">
+
+      
+
+<div class="form-elements">
+  <div class="form-element-row itemname itemname-0"><input type="text" id="0__itemname" name="elements[_itemname]" value="" placeholder="type keyword(s) here" autocomplete="off"></div></div>
+      
+      <input type="hidden" name="option" value="com_zoo">
+      <input type="hidden" name="task" value="search">
+      <input type="hidden" name="controller" value="zoofilter">
+      <input type="hidden" name="type" value="blog-articles">
+      <input type="hidden" name="app_id" value="1">
+      <input type="hidden" name="show_title" value="0">
+      <input type="hidden" name="show_ordering" value="0">
+      <input type="hidden" name="show_permalink" value="0">
+      <input type="hidden" name="redirect_if_one" value="0">
+      <input type="hidden" name="columns" value="1">
+      <input type="hidden" name="page_title" value="Search Results">
+      <!-- Item Layout -->
+      <!-- the layout value is overiden by ZOO when displaying category view.
+         As a workaround and future prevention the value it's wrapped but both will be checked. -->
+      <input type="hidden" name="layout" value="mrcup">
+      <input type="hidden" name="zoofilter[item_layout]" value="mrcup">
+      <!-- Item Layout END -->
+      <input type="hidden" name="page_layout" value="search">
+      <input type="hidden" name="elayout" value="default">
+      <input type="hidden" name="ordering_layout" value="default">
+      <input type="hidden" name="type" value="blog-articles">
+      <input type="hidden" name="module_id" value="253">
+      
+      <input type="hidden" name="Itemid" value="853"> 
+      <input type="hidden" name="items_per_page" value="1000">
+      <input type="hidden" name="search_limit" value="1000">
+      
+            <button type="submit" class="button">Search</button>
+                  
+      <div class="clearfix"></div>
+
+    </div>
+    
+  </form>
+  
+  <script type="text/javascript">
+    jQuery(document).ready(function(){
+      Modernizr.load({
+        test: Modernizr.input.required,
+        complete: function() {
+          init("Required fields should not be empty.");
+        }
+      });
+      jQuery('#mod-zoofilter-253').ZOOfilterSearchDefault({button: '.zfac-clear', ajax: 0, submit: 1})
+    });
+  </script>
+</div>
+
+            </div>
+        </div>
+                <span id="back-to-top" class="show"><i class="fa fa-angle-up" aria-hidden="true"></i></span>
+        
+    
+
+</body></html>
