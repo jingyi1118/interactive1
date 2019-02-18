@@ -17,6 +17,7 @@ body {
   position: fixed;
   top: 1em;
   left: 1em;
+  font-size: 0.7em;
   /* When you make something position: fixed,
      you need to tell it where to be fixed to.
      This means it will be 1em (22px) away from both the top and the left sides.
@@ -31,17 +32,13 @@ img{
   width:auto;
 }
 #toc {
-  position: fixed;
-  top: 1em;
-  left: 1em;
+  
   /* a background color might help it be differentiated from the rest */
   background: white;
-  /* that means you'll have to change the color of the text */
-  color: #587E20;
-  /* some padding might make it look better */
+  
   padding: 1em;
   /* maybe making the font size here smaller will help too */
-  font-size: 1em;
+  font-size: 11pt;
 }
 
     a {
@@ -64,7 +61,7 @@ img{
   color: black;
 }
 #toc ul {
-  padding: 0;
+  
   list-style-type: none;
   /* you could also change the type of bullet with the above declaration! */
 }
@@ -111,28 +108,7 @@ h2 {
 
 
 
-#toc {
-  position: fixed;
-  top: 1em;
-  left: 1em;
-  /* When you make something position: fixed,
-     you need to tell it where to be fixed to.
-     This means it will be 1em (22px) away from both the top and the left sides.
-     You could also use "bottom" or "right" here. */
-}
-#toc {
-  position: fixed;
-  top: 1em;
-  left: 1em;
-  /* a background color might help it be differentiated from the rest */
-  background: white;
-  /* that means you'll have to change the color of the text */
-  color: #587E20;
-  /* some padding might make it look better */
-  padding: 1em;
-  /* maybe making the font size here smaller will help too */
-  font-size: 0.7em;
-}
+
 
     a {
       color: yellow;
@@ -145,19 +121,8 @@ h2 {
       color: white;
     }
 
-#toc a {
-  color: #587E20;
-  text-decoration: none;
-}
 
-#toc a:hover {
-  color: black;
-}
-#toc ul {
-  padding: 0;
-  list-style-type: none;
-  /* you could also change the type of bullet with the above declaration! */
-}
+
 figure {
   margin: 0;
   width: 282px;

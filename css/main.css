@@ -1,18 +1,14 @@
 
-/* reset styles */
-
-
-
-/* begin styles */
-
-
-  
-
-	#container {margin: 0 auto;
-  	max-width: 650px;
-  color: yellow;-webkit-font-smoothing: antialiased;
+body { 
   background-image: url(../jeremy-thomas-99326-unsplash.jpg);
   background-size:cover; 
+
+}
+	
+  #container {margin: 0 auto;
+  	max-width: 400px;
+  color: yellow;-webkit-font-smoothing: antialiased;
+  
   font-family: 'Lobster', cursive;
   font: 32px Big Caslon, sans-serif;
   text-shadow: 2px 2px #FF0000;
@@ -37,5 +33,3 @@ h1 {
   margin-bottom: 2em;
 }
  
-  
-}
