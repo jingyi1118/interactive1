@@ -1,0 +1,94 @@
+h1{
+    font-size: 38pt;
+    border: none;
+    box-shadow: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1030;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    box-sizing: border-box;
+}
+img{
+     display:block;
+     margin-left: auto;
+     margin-right: auto;
+     height:400px;
+     width:auto;
+    border: none;
+    box-shadow: none;
+    position: fixed;
+    top: 1000;
+    right: 0;
+    z-index: 1030;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    box-sizing: border-box;
+}
+figcaption{
+    display:block;
+     margin-left: auto;
+     margin-right: auto;
+     width:auto;
+    border: none;
+    box-shadow: none;
+    position: fixed;
+    top: 550px;
+    right: 0;
+    z-index: 1030;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    box-sizing: border-box;
+}
+h2{
+    font-size: 24pt
+}
+#container {
+    margin: 0 auto;
+    max-width: 650px;
+     left:10pt;
+     color: darkblue;
+            }
+body {
+   width: 480pt;
+      display: block;
+      box-sizing: border-box;
+      font-size: 16px;
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+     font-size: 1rem;
+     font-weight: 400;
+     line-height: 1.5;
+     color: #212529;
+     text-align: left;
+     background-color: #fff;
+    
+}
+
