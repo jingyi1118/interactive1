@@ -1,0 +1,98 @@
+/*#square {
+    margin left: 200px;
+    background: orange;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    
+    transition: all 500ms ease;
+}*/
+
+body { background: black;
+       padding: 200px;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+  height:100px;
+  width:none;
+}
+/*img{
+	display:block;
+	}*/
+
+/*#border-radius{
+	padding:50px;
+	top: 260px;
+    left: 190px;
+	transform: rotate(-45deg);
+    animation: border-radius-2 1s infinite alternate;
+    border-radius: 0 100%;
+    width: 160px;
+    height: 160px;
+    background: red;
+
+    transition:all 500ms ease;
+}*/
+
+#border-radius{
+    transition: all 1000ms ease;
+}
+
+
+body.colorful img#mouth-1{
+	/*transform: scaleY(3);*/
+	  animation: border-radius 5s infinite;
+
+}
+
+
+body.colorful img#mouth-2{
+	/*transform: scaleY(3);*/
+	  animation: border-radius 5s infinite;
+	  animation-delay: 2s;
+}
+
+body.colorful img#mouth-3{
+	/*transform: scaleY(3);*/
+	  animation: border-radius 5s infinite;
+	  animation-delay: 4s;
+}
+
+/*@-webkit-keyframes squash {
+    from { height: 50px; }
+    to  { height: 150px; }
+}*/
+@keyframes border-radius{
+	0% {transform: scaleY(1);}
+
+	70% {transform: scaleY(5);}
+	100% {transform: scaleY(1);}
+}
+
+/*#border-radius2{
+	rotate:90deg;
+    animation: border-radius-2 1s infinite alternate;
+    border-radius: 0 100%;
+    width: 160px;
+    height: 400px;
+    background: red;
+    top: 260px;
+    left: 190px;
+}*/
+/*#rounded {
+    width: 160px;
+    height: 160px;
+    background: red;
+    top: 260px;
+    left: 190px;
+    border-radius: 50px;
+}
+a[data-property] {
+    position: relative;
+    float: left;
+    width: 150px;
+    height: 150px;
+    box-sizing: border-box;
+    margin: 0 15px 30px;
+}*/
