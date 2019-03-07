@@ -9,12 +9,12 @@
 }*/
 
 body { background: black;
-       padding: 200px;
+       padding: 180px;
 }
 img{
   margin-left: auto;
   margin-right: auto;
-  height:100px;
+  height:96px;
   width:none;
 }
 /*img{

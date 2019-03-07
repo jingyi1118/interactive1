@@ -1,4 +1,22 @@
-/*#square {
+
+/*body { 
+  background-image: url(../jeremy-thomas-99326-unsplash.jpg);
+  background-size:cover; 
+
+}*/
+
+
+@keyframes rainbow { 
+  0%{background-position:0% 82%}
+  50%{background-position:100% 19%}
+  100%{background-position:0% 82%}
+}
+  body.colorful {
+  background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  background-size: 1800% 1800%;
+  animation: rainbow 18s ease infinite;
+}
+#square {
     margin left: 200px;
     background: orange;
     width: 100px;
@@ -6,93 +24,39 @@
     margin: 20px;
     
     transition: all 500ms ease;
-}*/
-
-body { background: black;
-       padding: 180px;
-}
-img{
-  margin-left: auto;
-  margin-right: auto;
-  height:96px;
-  width:none;
-}
-/*img{
-	display:block;
-	}*/
-
-/*#border-radius{
-	padding:50px;
-	top: 260px;
-    left: 190px;
-	transform: rotate(-45deg);
-    animation: border-radius-2 1s infinite alternate;
-    border-radius: 0 100%;
-    width: 160px;
-    height: 160px;
-    background: red;
-
-    transition:all 500ms ease;
-}*/
-
-#border-radius{
-    transition: all 1000ms ease;
 }
 
-
-body.colorful img#mouth-1{
-	/*transform: scaleY(3);*/
-	  animation: border-radius 5s infinite;
-
+.rounded {
+  left: 200px;
+  border-radius: 50px;
 }
-
-
-body.colorful img#mouth-2{
-	/*transform: scaleY(3);*/
-	  animation: border-radius 5s infinite;
-	  animation-delay: 2s;
+  #container {
+    margin: 0 auto;
+  	max-width: 400px;
+    color: yellow;-webkit-font-smoothing: antialiased;
+    font-family: 'Lobster', cursive;
+    font: 32px Big Caslon, sans-serif;
+    text-shadow: 2px 2px #FF0000;
+  }
+center-me {
+    margin: 0 auto;
+  * {
+    margin: 0px;
+    padding: 0px;
 }
-
-body.colorful img#mouth-3{
-	/*transform: scaleY(3);*/
-	  animation: border-radius 5s infinite;
-	  animation-delay: 4s;
+	#container {margin: 0 auto;
+  	max-width: 650px;
+  		/* I put "max-width" rather than "width" because
+    		 if the screen width is less than 650px, it will shrink accordingly. */
+    		}
+h1 {
+  /* here I'm making the title not bold (by default headings are always bold)
+     centered, larger, tighter leading, and with some bottom space or margin */
+  font-weight: normal;
+  text-align: center;
+  font-size: 3em;
+  line-height: 1.1;
+  margin-bottom: 2em;
 }
+ 
 
-/*@-webkit-keyframes squash {
-    from { height: 50px; }
-    to  { height: 150px; }
-}*/
-@keyframes border-radius{
-	0% {transform: scaleY(1);}
-
-	70% {transform: scaleY(5);}
-	100% {transform: scaleY(1);}
-}
-
-/*#border-radius2{
-	rotate:90deg;
-    animation: border-radius-2 1s infinite alternate;
-    border-radius: 0 100%;
-    width: 160px;
-    height: 400px;
-    background: red;
-    top: 260px;
-    left: 190px;
-}*/
-/*#rounded {
-    width: 160px;
-    height: 160px;
-    background: red;
-    top: 260px;
-    left: 190px;
-    border-radius: 50px;
-}
-a[data-property] {
-    position: relative;
-    float: left;
-    width: 150px;
-    height: 150px;
-    box-sizing: border-box;
-    margin: 0 15px 30px;
-}*/
