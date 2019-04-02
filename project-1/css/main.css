@@ -1,0 +1,51 @@
+body {
+	background: #109AD6;
+}
+
+.grid-container {
+  display: grid;
+  grid-auto-rows: 220px;
+
+}
+
+.grid-item {
+  background-color: white;
+  border: 0.1px solid #707070;
+}
+#draw-pad1 {
+  position: absolute;
+  top: 70px;
+}
+
+#draw-pad2 {
+  position: absolute;
+  top: 300px;
+}
+#draw-pad3 {
+  position: absolute;
+  top: 520px;
+}
+#draw-pad4 {
+  position: absolute;
+  top: 740px;
+}
+#draw-pad5 {
+  position: absolute;
+  top: 960px;
+}
+#draw-pad6 {
+  position: absolute;
+  top: 1180px;
+}
+#draw-pad7 {
+  position: absolute;
+  top: 1400px;
+}
+#draw-pad8 {
+  position: absolute;
+  top: 1620px;
+}
+#draw-pad9 {
+  position: absolute;
+  top: 1840px;
+}
