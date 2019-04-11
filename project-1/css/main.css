@@ -1,5 +1,300 @@
 body {
 	background: #109AD6;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	color: #707070;
+}
+
+
+.sloth {
+	height: 40px;
+    position: absolute;
+    -webkit-transition: all 5s ease-in-out;
+}
+.van1 {
+    top: 25%;
+    left: 2%;
+}
+.one:hover .move-right{
+    -webkit-transform: translate(280px,0);
+}
+
+.snail {
+	height: 40px;
+    position: absolute;
+    -webkit-transition: all 5s ease-in-out;
+}
+.van2 {
+    top: 45%;
+    left: 2%;
+}
+.two:hover .move-right{
+    -webkit-transform: translate(440px,0);
+}
+
+.turtle {
+	height: 40px;
+    position: absolute;
+    -webkit-transition: all 5s ease-in-out;
+}
+.van3 {
+    top: 92%;
+    left: 2%;
+}
+.three:hover .move-right{
+    -webkit-transform: translate(580px,-50px);
+}
+
+.shark {
+	height: 80px;
+    position: absolute;
+    -webkit-transition: all 4.5s ease-in-out;
+}
+.van4 {
+    top: 113%;
+    left: 1%;
+}
+.four:hover .move-right{
+    -webkit-transform: translate(720px,50px);
+}
+
+.corgi {
+	height: 100px;
+    position: absolute;
+    -webkit-transition: all 3s ease-in-out;
+}
+.van5 {
+    top: 153%;
+    left: 0%;
+}
+.five:hover .move-right{
+    -webkit-transform: translate(880px,0px);
+}
+
+.rabbit {
+	height: 50px;
+    position: absolute;
+    -webkit-transition: all 2.5s ease-in-out;
+}
+.van6 {
+    top: 188%;
+    left: 1%;
+}
+.six:hover .move-right{
+    -webkit-transform: translate(1030px,0px);
+}
+
+.rabbit {
+	height: 50px;
+    position: absolute;
+    -webkit-transition: all 2.5s ease-in-out;
+}
+.van7 {
+    top: 240%;
+    left: 82%;
+}
+.seven:hover .move-left{
+    -webkit-transform: translate(-200px,0px);
+}
+
+.carrot {
+	height: 50px;
+    position: absolute;
+}
+.van8 {
+    top: 242%;
+    left: 64%;
+}
+
+
+.bird {
+	height: 50px;
+    position: absolute;
+    -webkit-transition: all 2s ease-in-out;
+}
+.van9 {
+    top: 260%;
+    left: 1%;
+}
+.nine:hover .move-right{
+    -webkit-transform: translate(1070px,0px);
+}
+
+.chaeeth {
+	height: 50px;
+    position: absolute;
+    -webkit-transition: all 1.5s ease-in-out;
+}
+.van10 {
+    top: 315%;
+    left: 1%;
+}
+.ten:hover .move-right{
+    -webkit-transform: translate(1800px,0px);
+}
+
+
+.typing1 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName1 14s ease infinite;
+	
+}
+
+.typing1 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName1 { 
+    0%{background-position:100% 0%}
+    50%{background-position:60% 0%}
+    100%{background-position:60% 0%}
+}
+
+
+.typing2 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName2 13s ease infinite;
+}
+
+.typing2 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName2 { 
+    0%{background-position:100% 0%}
+    50%{background-position:56% 0%}
+    100%{background-position:56% 0%}
+}
+
+
+.typing3 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName3 10.5s ease infinite;
+}
+
+.typing3 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName3 { 
+    0%{background-position:100% 0%}
+    50%{background-position:52% 0%}
+    100%{background-position:52% 0%}
+}
+
+
+.typing4 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName4 9s ease infinite;
+}
+
+.typing4 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName4 { 
+    0%{background-position:100% 0%}
+    50%{background-position:48% 0%}
+    100%{background-position:48% 0%}
+}
+
+
+.typing5 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName5 6s ease infinite;
+}
+
+.typing5 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName5 { 
+    0%{background-position:100% 0%}
+    50%{background-position:44% 0%}
+    100%{background-position:44% 0%}
+}
+
+
+
+.typing6 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName6 5s ease infinite;
+}
+
+.typing6 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName6 { 
+    0%{background-position:100% 0%}
+    50%{background-position:40% 0%}
+    100%{background-position:40% 0%}
+}
+
+
+.typing7 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName7 5s ease infinite;
+}
+
+.typing7 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName7 { 
+    0%{background-position:100% 0%}
+    50%{background-position:46% 0%}
+    100%{background-position:46% 0%}
+}
+
+
+
+.typing8 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName8 3s ease infinite;
+}
+
+.typing8 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName8 { 
+    0%{background-position:100% 0%}
+    50%{background-position:40% 0%}
+    100%{background-position:40% 0%}
+}
+
+
+.typing9 {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,ff8989+62 */
+	background: linear-gradient(to left, rgba(252,252,252,1) 46%,rgba(252,252,252,1) 48%,rgba(252,252,252,1) 48%,rgba(16,154,214,1) 49%);
+	background-size: 400% 400%;
+	animation: AnimationName9 2s ease infinite;
+}
+
+.typing9 p {
+qmix-blend-mode: screen;
+
+}
+@keyframes AnimationName9 { 
+    0%{background-position:100% 0%}
+    50%{background-position:30% 0%}
+    100%{background-position:30% 0%}
 }
 
 .grid-container {
@@ -12,40 +307,210 @@ body {
   background-color: white;
   border: 0.1px solid #707070;
 }
-#draw-pad1 {
+
+
+#typing1 {
   position: absolute;
   top: 70px;
+  left:70px;
+}
+#text_1{
+
+	padding-left:20px;
+	font-size: 72px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700;
+	/*background: blue;*/
 }
 
-#draw-pad2 {
+
+#typing2 {
   position: absolute;
   top: 300px;
 }
-#draw-pad3 {
+#text_2{
+	padding-left:20px;
+	margin-top:70px;
+    /*background: blue;*/
+	font-size: 64px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+
+#typing3 {
   position: absolute;
   top: 520px;
 }
-#draw-pad4 {
+#text_3{
+	margin-top: 75px;
+	padding-left:20px;
+    /*background: blue;*/
+	font-size: 56px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+#typing4 {
   position: absolute;
   top: 740px;
 }
-#draw-pad5 {
+#text_4{
+	margin-top: 80px;
+	padding-left:20px;
+	font-size: 48px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+#typing5 {
   position: absolute;
   top: 960px;
 }
-#draw-pad6 {
+#text_5{
+	margin-top: 85px;
+	padding-left:20px;
+	font-size: 40px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+#typing6 {
   position: absolute;
   top: 1180px;
 }
-#draw-pad7 {
+#text_6{
+	margin-top: 90px;
+	padding-left:20px;
+	font-size: 32px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+#typing7 {
   position: absolute;
   top: 1400px;
 }
-#draw-pad8 {
+#text_7{
+	margin-top: 95px;
+	padding-left:20px;
+	font-size: 24px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+#typing8 {
   position: absolute;
   top: 1620px;
 }
-#draw-pad9 {
+#text_8{
+	margin-top: 100px;
+	padding-left:20px;
+	font-size: 16px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+#typing9 {
   position: absolute;
   top: 1840px;
 }
+#text_9{
+	margin-top: 105px;
+	padding-left:20px;
+	font-size: 12px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+#typing10 {
+  position: absolute;
+  top: 2000px;
+}
+#text_10{
+	margin-top: 105px;
+	padding-left:20px;
+	font-size: 12px; 
+	font-style: normal; 
+	font-variant: normal;
+	font-weight: 700; 
+}
+
+
+@media (max-width: 720px) { 
+	#text_1{
+       font-size: 40.5px; 
+	}
+	#text_2{
+       font-size: 36px; 
+	}
+	#text_3{
+       font-size: 31.5px; 
+	}
+	#text_4{
+       font-size: 27px; 
+	}
+	#text_5{
+       font-size: 22.5px; 
+	}
+	#text_6{
+       font-size: 18px; 
+	}
+	#text_7{
+       font-size: 13.5px; 
+	}
+	#text_8{
+       font-size: 9px; 
+	}
+	#text_9{
+       font-size: 6.75px; 
+	}
+}
+
+
+@media (max-width: 480px) { 
+	#text_1{
+       font-size: 27px; 
+	}
+	#text_2{
+       font-size: 26.25px; 
+	}
+	#text_3{
+       font-size: 21px; 
+	}
+	#text_4{
+       font-size: 18px; 
+	}
+	#text_5{
+       font-size: 15px; 
+	}
+	#text_6{
+       font-size: 12px; 
+	}
+	#text_7{
+       font-size: 9px; 
+	}
+	#text_8{
+       font-size: 6px; 
+	}
+	#text_9{
+       font-size: 4.5px; 
+	}
+}
+

@@ -1,4 +1,50 @@
-// shim layer with setTimeout fallback
+$(document).ready(function(){
+	
+
+	$("#background1").click(function() {
+	  $('#text_1').toggleClass('typing1');
+	});
+
+	$("#background2").click(function() {
+	  $('#text_2').toggleClass('typing2');
+	});
+
+	$("#background3").click(function() {
+	  $('#text_3').toggleClass('typing3');
+	});
+
+	$("#background4").click(function() {
+	  $('#text_4').toggleClass('typing4');
+	});
+
+	$("#background5").click(function() {
+	  $('#text_5').toggleClass('typing5');
+	});
+
+	$("#background6").click(function() {
+	  $('#text_6').toggleClass('typing6');
+	});
+
+	$("#background7").click(function() {
+	  $('#text_7').toggleClass('typing7');
+	});
+
+	$("#background8").click(function() {
+	  $('#text_8').toggleClass('typing8');
+	});
+
+	$("#background9").click(function() {
+	  $('#text_9').toggleClass('typing9');
+	});
+ 
+	// $("#text_2").click(function() {
+	//   $('.typing2').toggleClass('.AnimationName2-active');
+	// });
+
+});
+
+
+/*// shim layer with setTimeout fallback
 window.requestAnimFrame = (function(){
   return  window.requestAnimationFrame       ||
           window.webkitRequestAnimationFrame ||
@@ -559,7 +605,7 @@ function runText() {
 
   
   w++;
-  requestAnimFrame(runText);
+  requestAnimFrame(runText2);
   
  
 }
@@ -625,11 +671,11 @@ function runText() {
 
   
   w++;
-  requestAnimFrame(runText);
+  requestAnimFrame(runText1);
   
  
 }
 $("#draw-pad1").click(function() {
    runText();
-})
+})*/
 
