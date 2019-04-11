@@ -11,7 +11,7 @@ body {
     -webkit-transition: all 5s ease-in-out;
 }
 .van1 {
-    top: 25%;
+    top: 23%;
     left: 2%;
 }
 .one:hover .move-right{
@@ -24,7 +24,7 @@ body {
     -webkit-transition: all 5s ease-in-out;
 }
 .van2 {
-    top: 45%;
+    top: 41%;
     left: 2%;
 }
 .two:hover .move-right{
@@ -37,7 +37,7 @@ body {
     -webkit-transition: all 5s ease-in-out;
 }
 .van3 {
-    top: 92%;
+    top: 86%;
     left: 2%;
 }
 .three:hover .move-right{
@@ -50,7 +50,7 @@ body {
     -webkit-transition: all 4.5s ease-in-out;
 }
 .van4 {
-    top: 113%;
+    top: 105%;
     left: 1%;
 }
 .four:hover .move-right{
@@ -63,7 +63,7 @@ body {
     -webkit-transition: all 3s ease-in-out;
 }
 .van5 {
-    top: 153%;
+    top: 142%;
     left: 0%;
 }
 .five:hover .move-right{
@@ -89,7 +89,7 @@ body {
     -webkit-transition: all 2.5s ease-in-out;
 }
 .van7 {
-    top: 240%;
+    top: 220%;
     left: 82%;
 }
 .seven:hover .move-left{
@@ -101,7 +101,7 @@ body {
     position: absolute;
 }
 .van8 {
-    top: 242%;
+    top: 222%;
     left: 64%;
 }
 
@@ -112,7 +112,7 @@ body {
     -webkit-transition: all 2s ease-in-out;
 }
 .van9 {
-    top: 260%;
+    top: 240%;
     left: 1%;
 }
 .nine:hover .move-right{
@@ -125,7 +125,7 @@ body {
     -webkit-transition: all 1.5s ease-in-out;
 }
 .van10 {
-    top: 315%;
+    top: 292%;
     left: 1%;
 }
 .ten:hover .move-right{
