@@ -457,7 +457,7 @@ qmix-blend-mode: screen;
 	body{
 		scale: 56.25%;
 	}
-	/*#text_1{
+	#text_1{
        font-size: 40.5px; 
 	}
 	#text_2{
@@ -483,15 +483,12 @@ qmix-blend-mode: screen;
 	}
 	#text_9{
        font-size: 6.75px; 
-	}*/
+	}
 }
 
 
 @media (max-width: 560px) { 
-	body{
-		scale: 43.75%;
-	}
-	/*#text_1{
+	#text_1{
        font-size: 27px; 
 	}
 	#text_2{
@@ -517,6 +514,6 @@ qmix-blend-mode: screen;
 	}
 	#text_9{
        font-size: 4.5px; 
-	}*/
+	}
 }
 
