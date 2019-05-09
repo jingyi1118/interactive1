@@ -1,0 +1,755 @@
+body {
+   cursor: url("https://raw.githubusercontent.com/jingyi1118/interactive1/master/curser.png" ), auto;
+    background-image:url("https://github.com/jingyi1118/interactive1/blob/master/purple%20copy.jpg?raw=true");
+ /*   background-size: cover;*/
+}
+
+.grid-item {
+  border: 1px yellow;
+}
+
+
+.grid-container {
+  position:relative;
+  bottom:500px;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+  grid-template-rows: 300px 300px 300px 300px 300px 300px;
+  grid-gap: 30px 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    transform: scale(0.5)
+
+}
+
+#A .rectangle_a {
+ 	position: relative;
+ 	top:104px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#A .triangle_a{
+	  position: relative;
+	  top:100px;
+      width: 0;
+      height: 0;
+      border-bottom: 100px solid black;
+      border-left: 100px solid transparent;
+}
+
+ #B .rectangle_b {
+ 	position: relative;
+ 	top:100px;
+ 	right:100px;
+    width: 200px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#B .triangle_b {
+ 	position: relative;
+ 	top:100px;	
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-right: 100px solid transparent;
+    }
+
+#C .rectangle_c1 {
+ 	position: relative;
+ 	top:102px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#C .rectangle_c2 {
+ 	position: relative;
+ 	top:148px;
+ 	right:50px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#C .rectangle_c3 {
+ 	position: relative;
+ 	top:194px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#D .rectangle_d {
+ 	position: relative;
+ 	top:100px;
+    width: 200px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#D .triangle_d {
+ 	position: relative;
+ 	top:100px;	
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-left: 100px solid transparent;
+    }
+
+
+#E .rectangle_e1 {
+ 	position: relative;
+ 	top:152px;
+ 	right:52px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#E .rectangle_e2 {
+ 	position: relative;
+ 	top:196px;
+ 	right: 4px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#E .triangle_e {
+ 	position: relative;
+ 	top:85px;
+ 	right:4px;	
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-right: 100px solid transparent;
+    transform:scaleY(.75);
+    }
+
+#F .rectangle_f1 {
+ 	position: relative;
+ 	top:246px;
+ 	right:47px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#F .rectangle_f2 {
+ 	position: relative;
+ 	top:196px;
+ 	left: 2px;
+    width: 50px;
+    height: 4px;
+    background: black;
+
+} 
+
+#F .triangle_f {
+ 	position: relative;
+ 	top:98px;	
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-right: 100px solid transparent;
+    }
+
+#G .triangle_g {
+ 	position: relative;
+ 	top:98px;	
+ 	right:4px;
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-left: 100px solid transparent;
+    }
+
+#G .rectangle_g1 {
+ 	position: relative;
+ 	top:246px;
+ 	left:45px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#G .rectangle_g2 {
+ 	position: relative;
+ 	top:292px;
+ 	right:2px;
+    width: 98px;
+    height: 4px;
+    background: black;
+
+} 
+
+
+#H .rectangle_h1 {
+ 	position: relative;
+ 	top:98px;
+ 	right:99px;
+    width: 198px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+
+#H .triangle_h {
+ 	position: relative;
+ 	top:99px;	
+ 	right:1px;
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-left: 100px solid transparent;
+    }
+
+#I .rectangle_i {
+ 	position: relative;
+ 	top:148px;
+ 	right:50px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+
+#J .rectangle_j1 {
+ 	position: relative;
+ 	top:174px;
+ 	left:23px;
+    width: 150px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#J .rectangle_j2 {
+ 	position: relative;
+ 	top:271px;
+ 	left:38px;
+    width: 70px;
+    height: 4px;
+    background: black;
+    transform: rotate(135deg);
+
+}
+
+ #K .rectangle_k {
+ 	position: relative;
+ 	top:99px;
+ 	right:100px;
+    width: 199px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#K .triangle_k1 {
+ 	position: relative;
+ 	top:74px;
+ 	right:1px;	
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-right: 100px solid transparent;
+    transform:scaleY(.5);
+    }
+
+#K .triangle_k2 {
+	position: relative;
+     top:23px;
+     width: 0;
+     height: 0;
+     border-bottom: 100px solid black;
+     border-right: 100px solid transparent;
+     transform:scaleY(.5);
+    }
+
+ #L .rectangle_l1 {
+ 	position: relative;
+ 	top:99px;
+ 	right:100px;
+    width: 200px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#L .rectangle_l2 {
+ 	position: relative;
+ 	top:196px;
+ 	right: 0px;
+    width: 50px;
+    height: 4px;
+    background: black;
+
+} 
+
+
+#M .rectangle_m1 {
+ 	position: relative;
+ 	top:152px;
+ 	right:48px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+
+#M .rectangle_m2 {
+ 	position: relative;
+ 	top:148px;
+ 	left:49px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#M .triangle_m {
+      width: 0;
+      height: 0;
+      position: relative;
+ 	  top:72px;
+ 	  left:-1px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-top: 100px solid black;
+      transform:scaleY(.5);
+    }
+
+#N .rectangle_n1 {
+ 	position: relative;
+ 	top:152px;
+ 	right:50px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+
+#N .rectangle_n2 {
+ 	position: relative;
+ 	top:150px;
+ 	left:50px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+
+#N .rectangle_n3 {
+ 	position: relative;
+ 	top:97px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#O .square {
+ 	position: relative;
+ 	top:100px;	
+    width: 100px;
+    height: 100px;
+    background: black;
+    }
+
+#P .rectangle_p {
+ 	position: relative;
+ 	top:199px;
+ 	right:99px;
+    width: 198px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#P .triangle_p {
+ 	position: relative;
+ 	top:97px;
+ 	right:0px;
+      width: 0;
+      height: 0;
+      border-bottom: 100px solid black;
+      border-right: 100px solid transparent;
+
+}
+
+#Q .rectangle_q {
+ 	position: relative;
+ 	top:199px;
+ 	right:3px;
+    width: 198px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#Q .triangle_q {
+ 	position: relative;
+ 	top:98px;	
+ 	right:4px;
+    width: 0;
+    height: 0;
+    border-top: 100px solid black;
+    border-left: 100px solid transparent;
+
+}
+
+#R .rectangle_r1 {
+ 	position: relative;
+ 	top:102px;
+ 	right:1px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#R .rectangle_r2 {
+ 	position: relative;
+ 	top:148px;
+ 	right:50px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#S .rectangle_s1 {
+ 	position: relative;
+ 	top:102px;
+ 	right:1px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#S .rectangle_s2 {
+ 	position: relative;
+ 	top:148px;
+ 	right:20px;
+    width: 138px;
+    height: 4px;
+    background: black;
+    transform: rotate(44deg)
+} 
+
+#S .rectangle_s3 {
+ 	position: relative;
+ 	top:194px;
+ 	right:1px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#T .triangle_t {
+      width: 0;
+      height: 0;
+      position: relative;
+ 	  top:76px;
+ 	  left:-1px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-top: 100px solid black;
+      transform:scaleY(.5);
+    }
+
+#T .rectangle_t1 {
+ 	position: relative;
+ 	top:126px;
+ 	right:27px;
+    width: 150px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#T .rectangle_t2 {
+ 	position: relative;
+ 	top:172px;
+ 	left:38px;
+    width: 70px;
+    height: 4px;
+    background: black;
+    transform: rotate(135deg)
+} 
+
+#U .rectangle_u1 {
+ 	position: relative;
+ 	top:149px;
+ 	right:50px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#U .rectangle_u2 {
+ 	position: relative;
+ 	top:196px;
+ 	right:2px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+
+#U .rectangle_u3 {
+ 	position: relative;
+ 	top:145px;
+ 	left:49px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+
+#V .triangle_v {
+      width: 0;
+      height: 0;
+      position: relative;
+ 	  top:101px;
+ 	  left:-1px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-top: 100px solid black;
+    }
+
+
+#W .rectangle_w1 {
+ 	position: relative;
+ 	top:149px;
+ 	right:48px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+
+#W .rectangle_w2 {
+ 	position: relative;
+ 	top:147px;
+ 	left:48px;
+    width: 98px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg)
+
+} 
+
+#W .triangle_w {
+      width: 0;
+      height: 0;
+      position: relative;
+ 	  top:120px;
+ 	  left:-1px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid black;
+      transform:scaleY(.5);
+    }
+
+#X .triangle_x1 {
+      width: 0;
+      height: 0;
+      position: relative;
+ 	  top:74px;
+ 	  left:-1px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-top: 100px solid black;
+      transform:scaleY(.5);
+    }
+
+#X .triangle_x2 {
+      width: 0;
+      height: 0;
+      position: relative;
+ 	  top:24px;
+ 	  left:-1px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid black;
+      transform:scaleY(.5);
+    }
+
+
+#Y .triangle_y {
+ 	position: relative;
+ 	top:95px;
+ 	right:0px;
+      width: 0;
+      height: 0;
+      border-bottom: 100px solid black;
+      border-right: 100px solid transparent;
+
+}
+
+#Y .rectangle_y1 {
+ 	position: relative;
+ 	top:196px;
+ 	right:0px;
+    width: 198px;
+    height: 4px;
+    background: black;
+    transform: rotate(270deg);
+
+}
+
+#Y .rectangle_y2 {
+ 	position: relative;
+ 	top:292px;
+ 	right:0px;
+    width: 98px;
+    height: 4px;
+    background: black;
+
+} 
+
+#Z .rectangle_z1 {
+ 	position: relative;
+ 	top:102px;
+ 	right:1px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#Z .rectangle_z2 {
+ 	position: relative;
+ 	top:148px;
+ 	right:21px;
+    width: 139px;
+    height: 4px;
+    background: black;
+    transform: rotate(136deg)
+} 
+
+#Z .rectangle_z3 {
+ 	position: relative;
+ 	top:194px;
+ 	right:1px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#number_0 .rectangle1 {
+  position: relative;
+  top:102px;
+  right:1px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+#number_0 .rectangle2 {
+  position: relative;
+  top:148px;
+  right:21px;
+    width: 139px;
+    height: 4px;
+    background: black;
+    transform: rotate(136deg)
+} 
+
+#number_0 .rectangle3 {
+  position: relative;
+  top:194px;
+  right:1px;
+    width: 100px;
+    height: 4px;
+    background: black;
+
+} 
+
+/*#number_o .square {
+  position: relative;
+  top:100px;  
+    width: 50px;
+    height: 100px;
+    background: black;
+    }*/
+
+
+/*}
+
+
+
+.letter {
+	position: relative;
+	margin: 10px;
+
+	display: grid;
+	float: left;
+
+	grid-template-columns: 40px 40px 40px;
+	grid-template-rows: 40px 40px 40px 40px 40px;
+	grid-gap: 10px 10px;
+}
+
+
+ letter pieces
+
+.letter div {
+	border-radius: 20px;
+	background: red; 
+}
+
+.letter div.empty {
+	background: transparent;*/
+}
