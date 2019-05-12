@@ -1,9 +1,9 @@
 
-/*body { 
+body { 
   background-image: url(../jeremy-thomas-99326-unsplash.jpg);
   background-size:cover; 
 
-}*/
+}
 
 
 @keyframes rainbow { 
@@ -35,8 +35,8 @@
   	max-width: 400px;
     color: yellow;-webkit-font-smoothing: antialiased;
     font-family: 'Lobster', cursive;
-    font: 32px Big Caslon, sans-serif;
-    text-shadow: 2px 2px #FF0000;
+    font: 32px Raleway, sans-serif;
+    text-shadow: 2px 2px yellow;
   }
 center-me {
     margin: 0 auto;
