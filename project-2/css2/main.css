@@ -6,13 +6,13 @@ body {
 }
 
 
-#name{
+.screen{
 	font-family: Raleway;
 	position:fixed;
 	left:30px;
 	top: 20px;
 	mix-blend-mode: screen;
-	z-index: 1000000;
+	z-index: 10000000000;
 }
 
 #shapes .rectangle {
@@ -147,8 +147,16 @@ body {
 
 .penometric{
 	position: relative;
- 	bottom:598px;
- 	left:270px;
+ 	bottom:498px;
+ 	left:10px;
+}
+
+.penometric_definition{
+	width: 480px;
+	position:relative;
+	bottom:1000px;
+	left: 680px;
+	font-family: Raleway;
 }
 
 /*.hello{
@@ -177,13 +185,13 @@ body {
 
 .triangle_word{
 	position: relative;
- 	bottom:100px;
+ 	bottom:300px;
  	left:25px;
 }
 
 .rectangle_word{
 	position: relative;
- 	bottom: 100px;
+ 	bottom: 300px;
  	left:20px;
 }
 /*#r{
